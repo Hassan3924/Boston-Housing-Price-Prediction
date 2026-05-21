@@ -11,4 +11,4 @@ joblib
 ipykernel
 skimpy
 dfsummary
-statsmodel
+flask
