@@ -12,3 +12,5 @@ ipykernel
 skimpy
 dfsummary
 flask
+gunicorn
+sweetviz
